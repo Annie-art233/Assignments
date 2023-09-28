@@ -1,0 +1,14 @@
+body{
+    border:2px solid black;
+}
+header{
+    background-color: skyblue;padding: 10px;
+}
+main{
+    padding: 20px;
+}
+footer{
+    text-align: center; 
+    background-color: skyblue;
+    padding: 20px;
+}
